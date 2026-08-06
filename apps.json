@@ -34,7 +34,7 @@
   { "slug": "vinted", "name": "Vinted", "scheme": "vinted://" },
   { "slug": "duolingo", "name": "Duolingo", "scheme": "duolingo://" },
   { "slug": "chatgpt", "name": "ChatGPT", "scheme": "chatgpt://", "aliases": ["openai", "gpt"] },
-  { "slug": "messages", "name": "Messages", "scheme": "messages://", "iconTerm": "apple messages", "aliases": ["imessage", "sms", "texts"] },
+  { "slug": "messages", "name": "Messages", "scheme": "ichat://", "iconTerm": "apple messages", "aliases": ["imessage", "sms", "texts"] },
   { "slug": "applemusic", "name": "Music", "scheme": "music://", "iconTerm": "apple music", "aliases": ["apple music", "music"] },
   { "slug": "photos", "name": "Photos", "scheme": "photos-redirect://", "iconTerm": "apple photos" },
   { "slug": "mail", "name": "Mail", "scheme": "message://", "iconTerm": "apple mail" },
@@ -44,7 +44,6 @@
   { "slug": "maps", "name": "Maps", "scheme": "maps://", "iconTerm": "apple maps" },
   { "slug": "safari", "name": "Safari", "iconTerm": "safari browser" },
   { "slug": "appstore", "name": "App Store", "scheme": "itms-apps://", "iconTerm": "app store" },
-  { "slug": "facetime", "name": "FaceTime", "scheme": "facetime://" },
   { "slug": "notes", "name": "Notes", "scheme": "mobilenotes://", "iconTerm": "apple notes" },
   { "slug": "books", "name": "Books", "scheme": "ibooks://", "iconTerm": "apple books" },
   { "slug": "stocks", "name": "Stocks", "scheme": "stocks://", "iconTerm": "apple stocks" }
