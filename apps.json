@@ -33,5 +33,6 @@
   { "slug": "bereal", "name": "BeReal" },
   { "slug": "vinted", "name": "Vinted" },
   { "slug": "duolingo", "name": "Duolingo" },
-  { "slug": "chatgpt", "name": "ChatGPT" }
+  { "slug": "chatgpt", "name": "ChatGPT" },
+  { "slug": "myfitnesspal", "name": "MyFitnessPal", "scheme": "mfp://", "aliases": ["my fitness pal"] },
 ]
