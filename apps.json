@@ -52,5 +52,6 @@
   { "slug": "appstore", "name": "App Store", "scheme": "itms-apps://", "iconTerm": "app store" },
   { "slug": "notes", "name": "Notes", "scheme": "mobilenotes://", "iconTerm": "apple notes" },
   { "slug": "books", "name": "Books", "scheme": "ibooks://", "iconTerm": "apple books" },
-  { "slug": "stocks", "name": "Stocks", "scheme": "stocks://", "iconTerm": "apple stocks" }
+  { "slug": "stocks", "name": "Stocks", "scheme": "stocks://", "iconTerm": "apple stocks" },
+  { "slug": "pathe", "name": "Pathé", "scheme": "au.com.harbourmedia.apps.PatheFrance://", "iconTerm": "Pathé France", "aliases": ["pathé", "pathe france", "pathé france", "pathé cinémas", "pathe cinemas", "pathécinémas", "pathecinemas"] }
 ]
