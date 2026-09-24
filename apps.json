@@ -48,7 +48,6 @@
   { "slug": "appletv", "name": "Apple TV", "scheme": "videos://", "iconTerm": "apple tv", "aliases": ["tv"] },
   { "slug": "podcasts", "name": "Podcasts", "scheme": "podcasts://", "iconTerm": "apple podcasts" },
   { "slug": "maps", "name": "Maps", "scheme": "maps://", "iconTerm": "apple maps" },
-  { "slug": "safari", "name": "Safari", "iconTerm": "safari browser" },
   { "slug": "appstore", "name": "App Store", "scheme": "itms-apps://", "iconTerm": "app store" },
   { "slug": "notes", "name": "Notes", "scheme": "mobilenotes://", "iconTerm": "apple notes" },
   { "slug": "books", "name": "Books", "scheme": "ibooks://", "iconTerm": "apple books" },
@@ -109,5 +108,17 @@
   { "slug": "yubo", "name": "Yubo", "scheme": "yubo://" },
   { "slug": "doordash", "name": "DoorDash", "scheme": "doordash://" },
   { "slug": "deliveroo", "name": "Deliveroo", "scheme": "deliveroo://" },
-  { "slug": "paramount", "name": "Paramount+", "scheme": "paramountplus://", "aliases": ["paramount plus"] }
+  { "slug": "paramount", "name": "Paramount+", "scheme": "paramountplus://", "aliases": ["paramount plus"] },
+  { "slug": "kingshot", "name": "Kingshot", "scheme": "com.run.tower.defense://" },
+  { "slug": "royalkingdom", "name": "Royal Kingdom", "scheme": "royalkingdom://" },
+  { "slug": "toonblast", "name": "Toon Blast", "scheme": "toonblast://" },
+  { "slug": "lastz", "name": "Last Z", "scheme": "lastzapp://", "aliases": ["last z survival shooter"] },
+  { "slug": "totalbattle", "name": "Total Battle", "scheme": "totalbattle://" },
+  { "slug": "fishdom", "name": "Fishdom", "scheme": "fishdom://" },
+  { "slug": "tastytravels", "name": "Tasty Travels", "scheme": "com.fatmerge.global://" },
+  { "slug": "netshort", "name": "NetShort", "scheme": "netshort://" },
+  { "slug": "winamax", "name": "Winamax", "scheme": "wam://" },
+  { "slug": "betclic", "name": "Betclic", "scheme": "betclicsportsfr://" },
+  { "slug": "unibet", "name": "Unibet", "scheme": "parionsweb://" },
+  { "slug": "parionssport", "name": "Parions Sport", "scheme": "parionssport://" }
 ]
